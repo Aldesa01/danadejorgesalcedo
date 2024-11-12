@@ -1,0 +1,4 @@
+mkdir catarroja
+mkdir alfafar
+mkdir paiporta
+mkdir massanassa
