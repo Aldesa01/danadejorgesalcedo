@@ -2,3 +2,13 @@ mkdir catarroja
 mkdir alfafar
 mkdir paiporta
 mkdir massanassa
+touch enero.txt
+touch febrero.txt
+touch marzo.txt
+cd ../alfafar
+cp cd ../catarroja/enero.txt /cd ../alfafar
+cd ..
+cp cd catarroja/* /cd paiporta
+rm paiporta/enero.txt
+rm paiporta/febrero.txt
+mv cd catarroja/enero.txt /cd massanassa
