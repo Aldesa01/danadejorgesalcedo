@@ -14,3 +14,7 @@ rm paiporta/febrero.txt
 mv cd catarroja/enero.txt /cd massanassa
 git fetch
 git merge
+mv dana/massanassa/enero.txt dana/massanassa/abril
+cp dana/massanassa/abril dana/hola
+cd dana/paiporta
+rm -r ../massanassa
